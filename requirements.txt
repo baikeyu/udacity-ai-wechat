@@ -3,3 +3,4 @@ pinyin
 SnowNLP
 jieba
 itchat
+wordcloud
